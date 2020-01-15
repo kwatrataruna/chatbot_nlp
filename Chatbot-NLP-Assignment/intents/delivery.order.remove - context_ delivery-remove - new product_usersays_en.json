@@ -1,0 +1,224 @@
+[
+  {
+    "id": "dcab4358-9c05-4ee5-b890-99489838003c",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "tomatoes",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4823e1a5-cd76-4c9c-bc84-e51fdb9988e4",
+    "data": [
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4b28ddf-5466-44d4-a3cd-bf3228182b6c",
+    "data": [
+      {
+        "text": "now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "milkshake",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8733387-fbea-4025-8b0b-95ee259b6be5",
+    "data": [
+      {
+        "text": "I don\u0027t need ",
+        "userDefined": false
+      },
+      {
+        "text": "tomatoes",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0df1c342-eb25-468d-a3d5-75a1c383c90e",
+    "data": [
+      {
+        "text": "I don\u0027t need ",
+        "userDefined": false
+      },
+      {
+        "text": "fish",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74d4ce64-1f92-49d3-b7c5-2aab2edf7edf",
+    "data": [
+      {
+        "text": "butter",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " is not needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4488fdda-bd76-4cf7-82f4-0582414005a3",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0565b850-a7b3-454d-a660-9270a02882b6",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "623b4fba-f4ef-49b5-9337-dc0d6c9e406e",
+    "data": [
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "well",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9628ebaa-cfd0-458e-8094-cfc0dc4e2995",
+    "data": [
+      {
+        "text": "these ",
+        "userDefined": false
+      },
+      {
+        "text": "apples",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44c4f7b5-df6b-4210-9aad-14f88b283437",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "id": "9360f924-a1c8-466d-90f7-e5881530c629",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " want to order ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6b46813-37f3-4987-b073-ce57705cdb6b",
+    "data": [
+      {
+        "text": "I don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " order ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "beers",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ecfa5b8-37dd-489c-911d-1c544796e683",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3d6ce3a1-11dd-45b9-be54-ecf9e3f8132d",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef938836-47e6-4943-a8b8-c39792064c4a",
+    "data": [
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " rid of ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df9b554a-3225-4174-b85f-dbc9bc746025",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cba528af-a337-46f4-8163-26831b2be78f",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fe4b508-71f4-4e1b-8a2e-7778dac80ad7",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0f36b90-2f30-462e-a6cd-0b38adc25d5b",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "643e967f-946b-4657-b501-c50dc04af378",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "741255ac-25dc-4600-9cab-3d2213a6c7cd",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " products from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5b88193-3a2e-4f1a-8e31-5fc819c80de6",
+    "data": [
+      {
+        "text": "and forget about ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bread sticks",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "699560bd-9e24-48be-bdb3-dd77368f8a33",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e17f634-e3dc-42d4-8109-1152cfc5c4a2",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " from my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40369ee3-ea0d-46eb-82fe-fac9170c6dcc",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b2bc5cf-f70f-4166-9241-8d8d8e936531",
+    "data": [
+      {
+        "text": "yeah delete ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7d92ede-5fa3-4cc0-9872-d72c27b40edc",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "pasta",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb8dedf2-6ee0-42b1-a870-5db06cb48856",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d821e863-0aa5-4a01-9de1-ec8fdca6b360",
+    "data": [
+      {
+        "text": "I don\u0027t want the ",
+        "userDefined": false
+      },
+      {
+        "text": "Coke",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

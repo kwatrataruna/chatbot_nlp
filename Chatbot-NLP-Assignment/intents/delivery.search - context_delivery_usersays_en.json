@@ -1,0 +1,248 @@
+[
+  {
+    "id": "65a64fc4-5e4f-4071-8177-fa4236f5bc6f",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b33ac13-da97-4dd2-a107-237e3342b69c",
+    "data": [
+      {
+        "text": "I would ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " take a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e800c9e4-7d9a-4f8a-bf4f-5a612902143e",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68216c32-47c7-45fc-aa46-86d83d7613e5",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6980641d-2354-40b7-b119-96c7666a405a",
+    "data": [
+      {
+        "text": "take ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "988fbd5c-1e91-4eb8-96d2-b78c310e4363",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1732910-58be-41ee-ad53-0182adbff29a",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e46cd137-d36f-4b7e-89dc-9e5fbed95cf2",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b0aab79-958c-4c02-a42f-cb74001069f0",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84095abb-9e85-44ff-988c-e87f1b9f40c8",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "alias": "product",
+        "meta": "@delivery-product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
